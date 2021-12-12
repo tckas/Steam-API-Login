@@ -17,7 +17,7 @@ O API dá scrape de 3 subpáginas diferentes:
     Novidades - https://store.steampowered.com/explore/new/
     Promoções - https://store.steampowered.com/specials/
 
-O API utiliza cheerio, axios e express para dar scrape e foi também utilizado nodemon. O script do API foi feito utilizando javscript. 
+O API várias dependências diferentes para melhorar a sua performance. O script do API foi feito utilizando javascript. E HTML5 e CSS para o frontend. 
 A divisão da informação está feita por 3 subpáginas diferentes:
 
     http://localhost:9090/maisvendidos
