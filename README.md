@@ -37,3 +37,6 @@ Este API foi realizado para a disciplina de WebDevelopment ensinada pelo Profess
 Como suporte a este API foram utilizadas várias ferramentas uma das principais, o tutorial feito por Ania Kubów: https://www.youtube.com/watch?v=GK4Pl-GmPHk&t=2s
 
 O API utiliza EthrealMail de modo a que para se fazer o registo de um novo utilizador é necessário aceder pelo link contido no API ou pela terminal.
+
+Normalmente o ficheiro .env não estaria no github, devido à  sua informação crítica, mas como sendo um trabalho académico e não com valor económico para nenhuma empresa, 
+dei upload para o github na mesma.
