@@ -1,0 +1,14 @@
+#btnLogoff {
+    display: none;
+}
+footer {
+    clear: both;
+    position: static;
+    height: 100px;
+    margin-top: 120px;
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}

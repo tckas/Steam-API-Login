@@ -1,0 +1,4 @@
+{"_id":"123@mail.pt","confirm":1,"password":"$2b$10$/hpgUKz5lCTVFzdSQcqOHuOBmGe2RGao9e4p3h3qNQMw9fRTOJmwa","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.MTIzQG1haWwucHQ.Ei0bcKI_nppRmgez4V_tVy3E6pwh1XnbPB6g_KqDVEg"}
+{"_id":"user2@mail.pt","confirm":0,"password":"$2b$10$RnnYCik1nQ7fG1w7SIJNSeMLNnVpUskSfL7XDEF4Fm1vtOssEPn8q","confirmationToken":"http://localhost:9090/api/auth/confirm/eyJhbGciOiJIUzI1NiJ9.dXNlcjJAbWFpbC5wdA.cUTXKM1Wq8rwMU2jBMhPKnGk_jssHSXy9rd8PUKMWIQ"}
+{"_id":"user3@mail.pt","confirm":1,"password":"$2b$10$vdZkt4H/UQ2wFMCzYMTvM.4/DDEkt43d1c9Ypnf..qNfqQcLILghO","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.dXNlcjNAbWFpbC5wdA.oFtNvMqlgwAGt1ohHNSpWan0_kalOahe36crovyXJrw"}
+{"_id":"user@mail.pt","confirm":0,"password":"$2b$10$6N1rpc24RfD.MbZnQszoIe5ucXdaWG79r32zXt6j/JH5.IUmpvzwC","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.dXNlckBtYWlsLnB0.qWWTu4pztiGHq1ytfBL_DgRMw7TaSJ0v9nx8Vk3qgbg"}
