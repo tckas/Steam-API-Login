@@ -3,6 +3,10 @@
 Este projeto consiste num API do site da steam https://store.steampowered.com/.
 Atenção que para aceder a qualquer informação do API é necessário fazer o registo de uma conta a partir do Ethereal Mail descrito na página do API.
 
+        Caso não queira criar uma conta pode usar a default que é:
+        Username: 123@mail.pt
+        Password: qwerty
+
 Para iniciar o API deve-se primeiro ir para o path onde está o programa (por exemplo se estiver no Ambiente de Trabalho: "cd Desktop/Steam-API-Login")
 depois fazer o comando "npm i" que irá instalar todas as depêndencias utilizadas para fazer o API, depois disto é necessário fazer o comando "npm run start" 
 para iniciar o API e depois é só ir para a página referida abaixo!
